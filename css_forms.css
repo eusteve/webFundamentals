@@ -1,0 +1,21 @@
+span{
+    color: dodgerblue;
+}
+input[type='text']{
+    
+    background-color: goldenrod;
+    margin-bottom: 10px;
+
+}
+
+input[type='email']{
+    margin-bottom: 10px;
+}
+
+input[type='password']{
+    margin-bottom: 25px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
